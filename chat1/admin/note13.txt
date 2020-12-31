@@ -1,0 +1,8 @@
+Learn how to read guitar tabs. Guitarists have their own system of music notation called guitar tablature, or guitar tabs for short. The basic idea is to look at each line in the "staff" of the tab in the same way you look at your guitar. Each line corresponds to a string, and each number tells you which fret to hold down when plucking that string. For example, to play this tab-notated lick from the Lynyrd Skynyrd song "Sweet Home Alabama," you would play two notes on the open D string, the B string at the third fret, the G string at the second fret, etc.
+E|-------------------------------------------------||
+B|-------3---------3----------3--------------------||
+G|---------2---------0--------0---------------2p0--||
+D|-0-0------------------------0--0----0h2p0--------||
+A|------------3-3-------------2---0p2-------0------||
+E|-----------------------3-3--3--------------------||
+1.Switching between lead-style licks and chords is exciting. You'll feel like you're really making music and not just "learning guitar." Make sure you've got your chord shapes down correctly and that you're not losing the rhythm entirely when you play a quick lick.
